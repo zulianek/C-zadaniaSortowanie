@@ -1,0 +1,7 @@
+C:\Users\Julek\source\repos\zadaniaSortowanie\zadanie5\bin\Debug\zadanie5.exe.config
+C:\Users\Julek\source\repos\zadaniaSortowanie\zadanie5\bin\Debug\zadanie5.exe
+C:\Users\Julek\source\repos\zadaniaSortowanie\zadanie5\bin\Debug\zadanie5.pdb
+C:\Users\Julek\source\repos\zadaniaSortowanie\zadanie5\obj\Debug\zadanie5.csproj.AssemblyReference.cache
+C:\Users\Julek\source\repos\zadaniaSortowanie\zadanie5\obj\Debug\zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\Julek\source\repos\zadaniaSortowanie\zadanie5\obj\Debug\zadanie5.exe
+C:\Users\Julek\source\repos\zadaniaSortowanie\zadanie5\obj\Debug\zadanie5.pdb
